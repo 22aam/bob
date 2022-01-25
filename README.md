@@ -3094,3 +3094,4 @@ head.log.pi.int.head.pi.mainpower.box
 [TAG.log.pi.int.loop].div
 {LinearOptimizationService}
 {head}.log.pi.int
+head.log.pi.int.loop
